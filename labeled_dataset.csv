@@ -1,0 +1,151 @@
+productname,originalprice,offerprice,discount,reviews,offer,Discount_Range,Review_Length,Discounted_Price_Percentage,Cluster,Sentiment
+Biotique Bio Green Apple Shampoo,223,190,15,"Works well, but I've seen better.",Flat 15% off,10-20%,33,85.20179372197309,1,0.5
+Biotique Bio Almond Oil,166,124,25,"Satisfied with the results, but not overly impressed.",10% off on Next Purchase,20-30%,53,74.69879518072288,2,0.75
+Biotique Bio Honey Gel,476,428,10,"Satisfied with the results, but not overly impressed.",10% off on Next Purchase,0-10%,53,89.91596638655463,2,0.75
+Biotique Bio Seaweed Eye Gel,197,167,15,"Fantastic product, go for it!",Free Product Sample,10-20%,29,84.77157360406092,1,0.5
+Biotique Bio Orange Peel,497,398,20,It's working wonders for my skin!,Free Travel Size Product,10-20%,33,80.08048289738431,1,0.0
+Biotique Bio Basil Toner,225,180,20,"It’s okay, but I wouldn’t buy it again.",Free Shipping on Orders Above ₹500,10-20%,39,80.0,2,0.5
+Biotique Bio Fruit Pack,195,156,20,It's working wonders for my skin!,Free Product Sample,10-20%,33,80.0,1,0.0
+Biotique Bio Basil Toner,385,308,20,Absolutely love it! Worth every penny.,Free Face Wash with Purchase of 2,10-20%,38,80.0,0,0.4625
+Biotique Bio Fruit Pack,398,318,20,It's working wonders for my skin!,Free Travel Size Product,10-20%,33,79.89949748743719,2,0.0
+Biotique Bio Basil Toner,109,82,25,"Works well, but I've seen better.",Combo Offer: Moisturizer + Face Wash,20-30%,33,75.22935779816514,1,0.5
+Biotique Bio White Whitening Cream,171,137,20,"Decent, but it didn’t work miracles for me.",Combo Offer: Cream + Scrub,10-20%,43,80.11695906432749,2,0.16666666666666666
+Biotique Bio Orange Peel,438,394,10,"Satisfied with the results, but not overly impressed.",Free Face Wash with Purchase of 2,0-10%,53,89.95433789954338,1,0.75
+Biotique Bio Seaweed Eye Gel,408,306,25,"Satisfied with the results, but not overly impressed.",10% off on Next Purchase,20-30%,53,75.0,1,0.75
+Biotique Bio Carrot Lotion,141,120,15,"Satisfied with the results, but not overly impressed.",Combo Offer: Cream + Scrub,10-20%,53,85.1063829787234,1,0.75
+Biotique Bio Papaya Scrub,459,344,25,"Works well, but I've seen better.",10% off on Next Purchase,20-30%,33,74.94553376906318,0,0.5
+Biotique Bio Carrot Lotion,266,239,10,It's working wonders for my skin!,Free Travel Size Product,0-10%,33,89.84962406015038,0,0.0
+Biotique Bio Almond Oil,294,220,25,"Satisfied with the results, but not overly impressed.",Buy 2 Get 1 Free,20-30%,53,74.82993197278913,0,0.75
+Biotique Bio Morning Nectar,317,285,10,"Decent, but it didn’t work miracles for me.",Combo Offer: Cream + Scrub,0-10%,43,89.90536277602523,1,0.16666666666666666
+Biotique Bio Fruit Pack,289,231,20,Absolutely love it! Worth every penny.,Free Shipping on Orders Above ₹500,10-20%,38,79.93079584775087,1,0.4625
+Biotique Bio Honey Gel,371,278,25,It's working wonders for my skin!,10% off on Next Purchase,20-30%,33,74.93261455525607,2,0.0
+Biotique Bio Basil Toner,392,314,20,"It’s okay, but I wouldn’t buy it again.",Flat 15% off,10-20%,39,80.10204081632652,2,0.5
+Biotique Bio Basil Toner,108,92,15,Best purchase I've made for my skincare routine.,10% off on Next Purchase,10-20%,48,85.18518518518519,2,1.0
+Biotique Bio Cucumber Toner,441,353,20,"Decent, but it didn’t work miracles for me.",Combo Offer: Cream + Scrub,10-20%,43,80.04535147392289,2,0.16666666666666666
+Biotique Bio Peach Lotion,311,264,15,"It’s okay, but I wouldn’t buy it again.",Buy One Get One Free,10-20%,39,84.88745980707395,0,0.5
+Biotique Bio Dandelion Serum,255,230,10,"Satisfied with the results, but not overly impressed.",Combo Offer: Cream + Scrub,0-10%,53,90.19607843137256,0,0.75
+Biotique Bio Carrot Lotion,481,385,20,Absolutely love it! Worth every penny.,Combo Offer: Cream + Scrub,10-20%,38,80.04158004158003,1,0.4625
+Biotique Bio White Whitening Cream,472,378,20,"It’s okay, but I wouldn’t buy it again.",Combo Offer: Moisturizer + Face Wash,10-20%,39,80.08474576271186,0,0.5
+Biotique Bio White Whitening Cream,307,261,15,Good product but not perfect.,Free Product Sample,10-20%,29,85.01628664495115,0,0.09999999999999998
+Biotique Bio Green Apple Shampoo,368,331,10,"Works well, but I've seen better.",Combo Offer: Moisturizer + Face Wash,0-10%,33,89.94565217391305,2,0.5
+Biotique Bio Basil Toner,166,133,20,"Works well, but I've seen better.",Flat 15% off,10-20%,33,80.12048192771084,0,0.5
+Biotique Bio Peach Lotion,287,258,10,Best purchase I've made for my skincare routine.,Combo Offer: Moisturizer + Face Wash,0-10%,48,89.89547038327527,1,1.0
+Biotique Bio Fruit Pack,303,227,25,"Satisfied with the results, but not overly impressed.",Free Face Wash with Purchase of 2,20-30%,53,74.91749174917491,2,0.75
+Biotique Bio Basil Toner,223,167,25,"Fantastic product, go for it!",10% off on Next Purchase,20-30%,29,74.88789237668162,1,0.5
+Biotique Bio Green Apple Shampoo,148,111,25,"Works well, but I've seen better.",Flat 15% off,20-30%,33,75.0,2,0.5
+Biotique Bio Wheat Germ Cream,353,318,10,"Satisfied with the results, but not overly impressed.",Flat 15% off,0-10%,53,90.08498583569406,0,0.75
+Biotique Bio White Whitening Cream,220,165,25,It's working wonders for my skin!,Flat 15% off,20-30%,33,75.0,0,0.0
+Biotique Bio Morning Nectar,207,176,15,Good product but not perfect.,Combo Offer: Moisturizer + Face Wash,10-20%,29,85.02415458937197,0,0.09999999999999998
+Biotique Bio Morning Nectar,110,99,10,"Fantastic product, go for it!",Free Travel Size Product,0-10%,29,90.0,1,0.5
+Biotique Bio Carrot Lotion,474,427,10,"Decent, but it didn’t work miracles for me.",10% off on Next Purchase,0-10%,43,90.084388185654,0,0.16666666666666666
+Biotique Bio Bhringraj Oil,358,286,20,Best purchase I've made for my skincare routine.,Flat 15% off,10-20%,48,79.88826815642457,0,1.0
+Biotique Bio Orange Peel,327,245,25,"Works well, but I've seen better.",Free Shipping on Orders Above ₹500,20-30%,33,74.92354740061162,0,0.5
+Biotique Bio Dandelion Serum,314,251,20,Absolutely love it! Worth every penny.,Combo Offer: Moisturizer + Face Wash,10-20%,38,79.93630573248409,2,0.4625
+Biotique Bio Papaya Scrub,110,88,20,Good product but not perfect.,Combo Offer: Moisturizer + Face Wash,10-20%,29,80.0,0,0.09999999999999998
+Biotique Bio Dandelion Serum,224,179,20,"It’s okay, but I wouldn’t buy it again.",Buy One Get One Free,10-20%,39,79.91071428571429,2,0.5
+Biotique Bio Morning Nectar,356,267,25,"Works well, but I've seen better.",10% off on Next Purchase,20-30%,33,75.0,2,0.5
+Biotique Bio Basil Toner,421,337,20,"Decent, but it didn’t work miracles for me.",10% off on Next Purchase,10-20%,43,80.04750593824228,2,0.16666666666666666
+Biotique Bio Carrot Lotion,126,101,20,"Decent, but it didn’t work miracles for me.",10% off on Next Purchase,10-20%,43,80.15873015873017,2,0.16666666666666666
+Biotique Bio Dandelion Serum,385,346,10,"Works well, but I've seen better.",Flat 15% off,0-10%,33,89.87012987012987,1,0.5
+Biotique Bio Coconut Cream,280,224,20,"Works well, but I've seen better.",Free Travel Size Product,10-20%,33,80.0,2,0.5
+Biotique Bio Orange Peel,443,399,10,"Decent, but it didn’t work miracles for me.",Free Travel Size Product,0-10%,43,90.06772009029346,2,0.16666666666666666
+Biotique Bio Coconut Cream,382,325,15,"Works well, but I've seen better.",Flat 15% off,10-20%,33,85.07853403141361,1,0.5
+Biotique Bio Dandelion Serum,307,246,20,Good product but not perfect.,Combo Offer: Moisturizer + Face Wash,10-20%,29,80.13029315960912,1,0.09999999999999998
+Biotique Bio Coconut Cream,462,346,25,"Decent, but it didn’t work miracles for me.",10% off on Next Purchase,20-30%,43,74.89177489177489,0,0.16666666666666666
+Biotique Bio Almond Oil,191,172,10,"Highly recommend, my skin feels amazing!",Buy 2 Get 1 Free,0-10%,40,90.0523560209424,0,0.45500000000000007
+Biotique Bio Bhringraj Oil,429,386,10,"Works well, but I've seen better.",Combo Offer: Cream + Scrub,0-10%,33,89.97668997668997,0,0.5
+Biotique Bio Honey Gel,208,187,10,Best purchase I've made for my skincare routine.,10% off on Next Purchase,0-10%,48,89.90384615384616,1,1.0
+Biotique Bio Seaweed Eye Gel,113,85,25,"Highly recommend, my skin feels amazing!",Free Product Sample,20-30%,40,75.22123893805309,0,0.45500000000000007
+Biotique Bio Walnut Scrub,246,209,15,"It’s okay, but I wouldn’t buy it again.",Flat 15% off,10-20%,39,84.95934959349594,2,0.5
+Biotique Bio Seaweed Eye Gel,490,392,20,"Decent, but it didn’t work miracles for me.",Flat 15% off,10-20%,43,80.0,0,0.16666666666666666
+Biotique Bio Bhringraj Oil,390,351,10,"Works well, but I've seen better.",Flat 15% off,0-10%,33,90.0,0,0.5
+Biotique Bio Basil Toner,344,310,10,"It’s okay, but I wouldn’t buy it again.",Combo Offer: Moisturizer + Face Wash,0-10%,39,90.11627906976744,1,0.5
+Biotique Bio Orange Peel,270,202,25,"Satisfied with the results, but not overly impressed.",10% off on Next Purchase,20-30%,53,74.81481481481481,2,0.75
+Biotique Bio Seaweed Eye Gel,413,351,15,It's working wonders for my skin!,Buy 2 Get 1 Free,10-20%,33,84.98789346246973,2,0.0
+Biotique Bio Bhringraj Oil,228,182,20,"Satisfied with the results, but not overly impressed.",Buy One Get One Free,10-20%,53,79.82456140350878,1,0.75
+Biotique Bio Mountain Ebony Serum,255,217,15,"Satisfied with the results, but not overly impressed.",Free Face Wash with Purchase of 2,10-20%,53,85.09803921568627,1,0.75
+Biotique Bio Fruit Pack,316,284,10,Best purchase I've made for my skincare routine.,Buy One Get One Free,0-10%,48,89.87341772151899,0,1.0
+Biotique Bio Dandelion Serum,428,364,15,"Satisfied with the results, but not overly impressed.",10% off on Next Purchase,10-20%,53,85.04672897196261,1,0.75
+Biotique Bio Orange Peel,493,444,10,Absolutely love it! Worth every penny.,Combo Offer: Moisturizer + Face Wash,0-10%,38,90.06085192697769,2,0.4625
+Biotique Bio Papaya Scrub,216,173,20,Absolutely love it! Worth every penny.,Buy 2 Get 1 Free,10-20%,38,80.0925925925926,0,0.4625
+Biotique Bio Peach Lotion,186,167,10,"It’s okay, but I wouldn’t buy it again.",Free Face Wash with Purchase of 2,0-10%,39,89.78494623655914,0,0.5
+Biotique Bio Honey Gel,486,364,25,"Highly recommend, my skin feels amazing!",Free Product Sample,20-30%,40,74.8971193415638,1,0.45500000000000007
+Biotique Bio Almond Oil,379,341,10,It's working wonders for my skin!,Buy 2 Get 1 Free,0-10%,33,89.9736147757256,2,0.0
+Biotique Bio Dandelion Serum,240,192,20,"Fantastic product, go for it!",Flat 15% off,10-20%,29,80.0,2,0.5
+Biotique Bio Peach Lotion,239,191,20,"Highly recommend, my skin feels amazing!",Combo Offer: Cream + Scrub,10-20%,40,79.9163179916318,0,0.45500000000000007
+Biotique Bio Papaya Scrub,245,184,25,Absolutely love it! Worth every penny.,Free Travel Size Product,20-30%,38,75.10204081632654,0,0.4625
+Biotique Bio Neem Face Wash,156,140,10,"Satisfied with the results, but not overly impressed.",Buy One Get One Free,0-10%,53,89.74358974358975,1,0.75
+Biotique Bio Coconut Cream,383,326,15,Best purchase I've made for my skincare routine.,Flat 15% off,10-20%,48,85.11749347258485,1,1.0
+Biotique Bio Mountain Ebony Serum,250,212,15,"Decent, but it didn’t work miracles for me.",Combo Offer: Moisturizer + Face Wash,10-20%,43,84.8,2,0.16666666666666666
+Biotique Bio White Whitening Cream,213,160,25,"It’s okay, but I wouldn’t buy it again.",Combo Offer: Moisturizer + Face Wash,20-30%,39,75.11737089201877,2,0.5
+Biotique Bio Basil Toner,197,148,25,It's working wonders for my skin!,Combo Offer: Moisturizer + Face Wash,20-30%,33,75.1269035532995,2,0.0
+Biotique Bio Cucumber Toner,189,170,10,Absolutely love it! Worth every penny.,Free Product Sample,0-10%,38,89.94708994708994,0,0.4625
+Biotique Bio Wheat Germ Cream,443,332,25,"Decent, but it didn’t work miracles for me.",Buy 2 Get 1 Free,20-30%,43,74.94356659142211,1,0.16666666666666666
+Biotique Bio Coconut Cream,197,167,15,"Satisfied with the results, but not overly impressed.",Free Travel Size Product,10-20%,53,84.77157360406092,0,0.75
+Biotique Bio Bhringraj Oil,490,392,20,"Fantastic product, go for it!",Free Travel Size Product,10-20%,29,80.0,2,0.5
+Biotique Bio Honey Gel,422,316,25,"It’s okay, but I wouldn’t buy it again.",Flat 15% off,20-30%,39,74.88151658767772,0,0.5
+Biotique Bio Papaya Scrub,385,289,25,"It’s okay, but I wouldn’t buy it again.",Flat 15% off,20-30%,39,75.06493506493507,1,0.5
+Biotique Bio Seaweed Eye Gel,361,289,20,Best purchase I've made for my skincare routine.,Free Product Sample,10-20%,48,80.05540166204986,1,1.0
+Biotique Bio Wheat Germ Cream,411,329,20,Absolutely love it! Worth every penny.,Free Face Wash with Purchase of 2,10-20%,38,80.04866180048663,0,0.4625
+Biotique Bio Papaya Scrub,279,209,25,"Works well, but I've seen better.",Free Product Sample,20-30%,33,74.91039426523297,0,0.5
+Biotique Bio Basil Toner,470,352,25,"Works well, but I've seen better.",Free Travel Size Product,20-30%,33,74.8936170212766,2,0.5
+Biotique Bio Honey Gel,259,207,20,Absolutely love it! Worth every penny.,Buy One Get One Free,10-20%,38,79.92277992277992,2,0.4625
+Biotique Bio Mountain Ebony Serum,434,347,20,"It’s okay, but I wouldn’t buy it again.",Free Product Sample,10-20%,39,79.95391705069125,1,0.5
+Biotique Bio Seaweed Eye Gel,364,273,25,"It’s okay, but I wouldn’t buy it again.",Buy 2 Get 1 Free,20-30%,39,75.0,2,0.5
+Biotique Bio Carrot Lotion,166,141,15,"Satisfied with the results, but not overly impressed.",Free Face Wash with Purchase of 2,10-20%,53,84.93975903614458,0,0.75
+Biotique Bio Peach Lotion,218,196,10,"It’s okay, but I wouldn’t buy it again.",Combo Offer: Moisturizer + Face Wash,0-10%,39,89.90825688073394,1,0.5
+Biotique Bio Morning Nectar,234,176,25,"Works well, but I've seen better.",Buy 2 Get 1 Free,20-30%,33,75.21367521367522,1,0.5
+Biotique Bio Green Apple Shampoo,183,137,25,"Highly recommend, my skin feels amazing!",Combo Offer: Moisturizer + Face Wash,20-30%,40,74.86338797814209,2,0.45500000000000007
+Biotique Bio Almond Oil,369,295,20,Good product but not perfect.,Flat 15% off,10-20%,29,79.94579945799458,2,0.09999999999999998
+Biotique Bio Wheat Germ Cream,288,259,10,It's working wonders for my skin!,Combo Offer: Moisturizer + Face Wash,0-10%,33,89.93055555555556,0,0.0
+Biotique Bio Green Apple Shampoo,454,340,25,"Fantastic product, go for it!",Free Face Wash with Purchase of 2,20-30%,29,74.8898678414097,1,0.5
+Biotique Bio Wheat Germ Cream,443,399,10,"It’s okay, but I wouldn’t buy it again.",10% off on Next Purchase,0-10%,39,90.06772009029346,2,0.5
+Biotique Bio Dandelion Serum,466,419,10,"It’s okay, but I wouldn’t buy it again.",Free Shipping on Orders Above ₹500,0-10%,39,89.91416309012875,1,0.5
+Biotique Bio Papaya Scrub,485,412,15,"Satisfied with the results, but not overly impressed.",Free Travel Size Product,10-20%,53,84.94845360824742,0,0.75
+Biotique Bio Cucumber Toner,268,214,20,"Highly recommend, my skin feels amazing!",Combo Offer: Moisturizer + Face Wash,10-20%,40,79.8507462686567,0,0.45500000000000007
+Biotique Bio Green Apple Shampoo,112,90,20,Absolutely love it! Worth every penny.,Combo Offer: Cream + Scrub,10-20%,38,80.35714285714286,1,0.4625
+Biotique Bio Bhringraj Oil,439,351,20,"Works well, but I've seen better.",10% off on Next Purchase,10-20%,33,79.95444191343964,2,0.5
+Biotique Bio Bhringraj Oil,356,267,25,Best purchase I've made for my skincare routine.,Buy One Get One Free,20-30%,48,75.0,0,1.0
+Biotique Bio Cucumber Toner,208,156,25,"Satisfied with the results, but not overly impressed.",Free Travel Size Product,20-30%,53,75.0,2,0.75
+Biotique Bio Neem Face Wash,191,172,10,"Satisfied with the results, but not overly impressed.",Free Shipping on Orders Above ₹500,0-10%,53,90.0523560209424,1,0.75
+Biotique Bio White Whitening Cream,452,362,20,"Decent, but it didn’t work miracles for me.",10% off on Next Purchase,10-20%,43,80.08849557522124,0,0.16666666666666666
+Biotique Bio White Whitening Cream,180,162,10,"Works well, but I've seen better.",Combo Offer: Cream + Scrub,0-10%,33,90.0,2,0.5
+Biotique Bio Fruit Pack,153,138,10,"Fantastic product, go for it!",Buy 2 Get 1 Free,0-10%,29,90.19607843137256,2,0.5
+Biotique Bio Carrot Lotion,347,260,25,"Works well, but I've seen better.",Free Face Wash with Purchase of 2,20-30%,33,74.92795389048992,2,0.5
+Biotique Bio Seaweed Eye Gel,263,224,15,"Works well, but I've seen better.",Buy One Get One Free,10-20%,33,85.17110266159695,1,0.5
+Biotique Bio Fruit Pack,393,354,10,"Decent, but it didn’t work miracles for me.",Free Travel Size Product,0-10%,43,90.07633587786259,2,0.16666666666666666
+Biotique Bio Cucumber Toner,494,395,20,"Satisfied with the results, but not overly impressed.",Combo Offer: Moisturizer + Face Wash,10-20%,53,79.95951417004049,0,0.75
+Biotique Bio Mountain Ebony Serum,114,91,20,"Works well, but I've seen better.",Buy One Get One Free,10-20%,33,79.82456140350878,2,0.5
+Biotique Bio Walnut Scrub,345,293,15,Good product but not perfect.,Free Face Wash with Purchase of 2,10-20%,29,84.92753623188406,1,0.09999999999999998
+Biotique Bio Wheat Germ Cream,478,382,20,"Fantastic product, go for it!",10% off on Next Purchase,10-20%,29,79.9163179916318,1,0.5
+Biotique Bio Dandelion Serum,398,338,15,"Works well, but I've seen better.",Free Travel Size Product,10-20%,33,84.92462311557789,1,0.5
+Biotique Bio Seaweed Eye Gel,349,262,25,"Satisfied with the results, but not overly impressed.",Free Face Wash with Purchase of 2,20-30%,53,75.07163323782235,2,0.75
+Biotique Bio Carrot Lotion,493,419,15,Good product but not perfect.,Free Shipping on Orders Above ₹500,10-20%,29,84.98985801217039,1,0.09999999999999998
+Biotique Bio Coconut Cream,119,89,25,"It’s okay, but I wouldn’t buy it again.",Free Product Sample,20-30%,39,74.78991596638656,2,0.5
+Biotique Bio Basil Toner,169,144,15,"Fantastic product, go for it!",Free Travel Size Product,10-20%,29,85.20710059171599,2,0.5
+Biotique Bio Cucumber Toner,338,270,20,"Decent, but it didn’t work miracles for me.",Buy One Get One Free,10-20%,43,79.88165680473372,1,0.16666666666666666
+Biotique Bio Wheat Germ Cream,454,409,10,"Satisfied with the results, but not overly impressed.",Free Shipping on Orders Above ₹500,0-10%,53,90.08810572687224,1,0.75
+Biotique Bio Wheat Germ Cream,247,185,25,"Works well, but I've seen better.",10% off on Next Purchase,20-30%,33,74.89878542510121,0,0.5
+Biotique Bio Cucumber Toner,461,369,20,Best purchase I've made for my skincare routine.,10% off on Next Purchase,10-20%,48,80.04338394793926,1,1.0
+Biotique Bio Wheat Germ Cream,376,320,15,"Works well, but I've seen better.",Free Face Wash with Purchase of 2,10-20%,33,85.1063829787234,1,0.5
+Biotique Bio Orange Peel,107,96,10,It's working wonders for my skin!,Free Face Wash with Purchase of 2,0-10%,33,89.7196261682243,0,0.0
+Biotique Bio Walnut Scrub,149,127,15,"Works well, but I've seen better.",Free Face Wash with Purchase of 2,10-20%,33,85.23489932885906,0,0.5
+Biotique Bio Green Apple Shampoo,234,187,20,Good product but not perfect.,Free Shipping on Orders Above ₹500,10-20%,29,79.91452991452992,1,0.09999999999999998
+Biotique Bio Mountain Ebony Serum,171,128,25,"Decent, but it didn’t work miracles for me.",Free Product Sample,20-30%,43,74.85380116959064,0,0.16666666666666666
+Biotique Bio Orange Peel,440,330,25,"Works well, but I've seen better.",Flat 15% off,20-30%,33,75.0,2,0.5
+Biotique Bio Morning Nectar,208,187,10,"Works well, but I've seen better.",Combo Offer: Cream + Scrub,0-10%,33,89.90384615384616,2,0.5
+Biotique Bio Neem Face Wash,148,126,15,"Fantastic product, go for it!",Buy One Get One Free,10-20%,29,85.13513513513513,0,0.5
+Biotique Bio Orange Peel,149,134,10,Good product but not perfect.,Combo Offer: Cream + Scrub,0-10%,29,89.93288590604027,1,0.09999999999999998
+Biotique Bio Neem Face Wash,239,203,15,"Decent, but it didn’t work miracles for me.",Combo Offer: Moisturizer + Face Wash,10-20%,43,84.93723849372385,0,0.16666666666666666
+Biotique Bio Papaya Scrub,267,240,10,Best purchase I've made for my skincare routine.,Free Shipping on Orders Above ₹500,0-10%,48,89.8876404494382,2,1.0
+Biotique Bio Fruit Pack,284,227,20,Good product but not perfect.,Free Travel Size Product,10-20%,29,79.92957746478874,1,0.09999999999999998
+Biotique Bio Neem Face Wash,172,155,10,"Fantastic product, go for it!",Free Shipping on Orders Above ₹500,0-10%,29,90.11627906976744,2,0.5
+Biotique Bio Neem Face Wash,259,194,25,"Highly recommend, my skin feels amazing!",Free Travel Size Product,20-30%,40,74.9034749034749,0,0.45500000000000007
+Biotique Bio Bhringraj Oil,150,135,10,Absolutely love it! Worth every penny.,Free Face Wash with Purchase of 2,0-10%,38,90.0,0,0.4625
+Biotique Bio Dandelion Serum,263,237,10,"It’s okay, but I wouldn’t buy it again.",Combo Offer: Moisturizer + Face Wash,0-10%,39,90.11406844106465,1,0.5
+Biotique Bio Almond Oil,208,166,20,Good product but not perfect.,Buy 2 Get 1 Free,10-20%,29,79.8076923076923,1,0.09999999999999998
+Biotique Bio Basil Toner,489,416,15,"Works well, but I've seen better.",Free Product Sample,10-20%,33,85.07157464212679,1,0.5
+Biotique Bio Honey Gel,206,154,25,"Decent, but it didn’t work miracles for me.",Free Travel Size Product,20-30%,43,74.75728155339806,1,0.16666666666666666
+Biotique Bio Mountain Ebony Serum,321,273,15,"Fantastic product, go for it!",Free Product Sample,10-20%,29,85.04672897196261,1,0.5
+Biotique Bio Wheat Germ Cream,148,118,20,"It’s okay, but I wouldn’t buy it again.",Free Face Wash with Purchase of 2,10-20%,39,79.72972972972973,2,0.5
+Biotique Bio Morning Nectar,235,188,20,Good product but not perfect.,10% off on Next Purchase,10-20%,29,80.0,1,0.09999999999999998
